@@ -70,7 +70,7 @@ export default function Home() {
         <div
           style={{
             position: "relative",
-            height: "200px",
+            height: "280px",
             width: "50%",
             marginTop: "200px",
           }}
@@ -226,7 +226,7 @@ export default function Home() {
             </p>
           </div>
         </div>
-        <div>
+        <div style={{paddingTop:"30px"}}>
           <p
             style={{
               color: "#fff",
