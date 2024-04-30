@@ -4,7 +4,7 @@ import lpImg from "../../public/assets/lp_img.png";
 import comingSoonImg from "../../public/assets/coming_soon.png";
 
 export default function Home() {
-  const endDate = new Date("2024-05-05T10:45:00");
+  const endDate = new Date("2024-05-06T10:45:00");
 
   const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
 
